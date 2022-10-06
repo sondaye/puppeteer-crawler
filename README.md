@@ -1,4 +1,4 @@
-puppeteer 를 사용한 크롤러 연습
+node.js 의 puppeteer 라이브러리를 사용한 크롤러 연습
 
 ```
 npm install puppeteer
