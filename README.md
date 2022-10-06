@@ -4,7 +4,7 @@ node.js 의 puppeteer 라이브러리를 사용한 크롤러 연습
 npm install puppeteer
 ```
 
-를 사용해서 https://kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do? 의 영화정보 중
+를 사용해서 [영화정보](https://kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?) 중
 
 포스터,
 요약정보,
