@@ -1,4 +1,4 @@
-node.js 의 puppeteer 라이브러리를 사용한 크롤러 연습
+node.js 의 puppeteer 라이브러리 연습
 
 ```
 npm install puppeteer
@@ -10,4 +10,4 @@ npm install puppeteer
 요약정보,
 시놉시스,
 감독,
-배우(주연) 을 가져오는 크롤러이다.
+배우(주연) 을 스크래핑하여 데이터를 가져온다.
